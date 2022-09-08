@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    Check out this project <a href="-"> website</a>! 
+    Check out this project <a href="https://ztiagok.github.io/trybe-06.color-guess/"> website</a>! 
   <h3>
   <h2>
     -
@@ -9,7 +9,7 @@
 
   > Status: Finished ✔️
   >
-  > Conclusion Date: - 📆
+  > Conclusion Date: 30/04/2022 📆
   >
   > Version: - 🧪
   >
@@ -28,7 +28,7 @@
     ℹ️ Information ℹ️
   </h3>
   <br>
-  <span> - </span> 
+  <span> Color Gues </span> 
   <br><br>
   <span> - </span>
   <br>
