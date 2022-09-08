@@ -28,9 +28,9 @@
     ℹ️ Information ℹ️
   </h3>
   <br>
-  <span> Color Gues </span> 
+  <span> Color Guess is an application for the user to play a guessing game, trying to guess the correct color using an RGB code to receive points, points that are saved in your storage, so you can continue even after restarting the page. </span> 
   <br><br>
-  <span> - </span>
+  <span> Guess the RGB code! Click on the right color to collect points. The site will tell you if you got the color right or wrong, when you try to guess the answer, click "Reset" to start again. </span>
   <br>
   <hr>
   <h3>
