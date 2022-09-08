@@ -3,7 +3,7 @@
     Check out this project <a href="https://ztiagok.github.io/trybe-06.color-guess/"> website</a>! 
   <h3>
   <h2>
-    -
+    Color Guess
     <br><br>
   </h2>
 
@@ -39,18 +39,13 @@
   <div align="left">
   <br>
   
-- [X] 1. 
-- [X] 2. 
-- [X] 3. 
-- [X] 4. 
-- [X] 5. 
-- [X] 6. 
-- [X] 7. 
-- [X] 8.
-- [X] 9. 
-- [X] 10. 
-- [X] 11. 
-- [X] 12. 
+- [X] 1. Add a title on your site with the name of your game.
+- [X] 2. Add a text with the RGB code to be guessed.
+- [X] 3. Add the page color options to be guessed.
+- [X] 4. Add colors to the balls, they should be generated dynamically.
+- [X] 5. Click on a colored circle, a text should appear to indicate if it is correct.
+- [X] 6. Create a start/restart button.
+- [X] 7. Create a scoreboard that increments 3 points for each hit in the game.
   </div>
   <br>
   <hr>
@@ -58,7 +53,7 @@
     📄 Pages and Components 📄
   </h3>
   <br>
-  <span> - </span>
+  <span> Basic HTML, Javascript and CSS </span>
   <br>
   <hr>
   <h3>
