@@ -30,7 +30,7 @@
   <br>
   <span> Color Guess is an application for the user to play a guessing game, trying to guess the correct color using an RGB code to receive points, points that are saved in your storage, so you can continue even after restarting the page. </span> 
   <br><br>
-  <span> Guess the RGB code! Click on the right color to collect points. The site will tell you if you got the color right or wrong, when you try to guess the answer, click "Reset" to start again. </span>
+  <span> Guess the RGB code! Try to click on the correct answer. </span>
   <br>
   <hr>
   <h3>
@@ -50,11 +50,21 @@
   <br>
   <hr>
   <h3>
-    📄 Pages and Components 📄
+    📄 Features 📄
   </h3>
   <br>
-  <span> Basic HTML, Javascript and CSS </span>
-  <br>
+  <span> ◐ Guess the RGB code on the page to earn points. ◑ </span>
+  <br><br>
+  <span> ◐ Click on the ball that corresponds to the RGB code. ◑ </span>
+  <br><br>
+  <span> ◐ When you click on the ball that corresponds to the code, a message saying that you got it right will appear, adding 3 points to your score. ◑ </span>
+  <br><br>
+  <span> ◐ The score is saved in your browser. ◑ </span>
+  <br><br>
+  <span> ◐ If you miss the ball corresponding to the code, a message will appear telling you that you have missed. ◑ </span>
+  <br><br>
+  <span> ◐ Reset your score by clicking on the "Reset" button. ◑ </span>
+  <br><br>
   <hr>
   <h3>
     📦 Frameworks and Libraries 📦
